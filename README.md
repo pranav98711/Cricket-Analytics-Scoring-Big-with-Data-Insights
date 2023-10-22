@@ -6,7 +6,7 @@
 ![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/part3.gif)
 
 
-
+---
 
 Project Description: The project aims to build a Power BI dashboard to visualize and analyze the data, eventually resulting in the selection of the best 11 players
 
