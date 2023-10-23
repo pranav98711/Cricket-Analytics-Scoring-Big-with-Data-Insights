@@ -31,16 +31,28 @@ This project revolves around the exciting world of T20 Cricket, specifically the
 **Interactive Dashboards:**
 - **Project Sporton:** Dive into the dynamic world of visualizations, focusing on the batting performance of opener batsmen and power hitters, complemented by insights into their historical performance. Hover over a player's row for detailed batting performance metrics.
 
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report1_Openers.png)
+
 - **New Anchors / Middle Order:** This dashboard provides intriguing insights into the batting performance of New Anchors and Middle Order Batsmen, alongside historical match performance metrics. Hover over any player's row to reveal player-specific insights.
+
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report1_middle.png)
 
 - **New Finisher / Lower Order Anchor:** Similar to the previous dashboard, this section explores the performance of finisher batsmen, offering interactive metrics for deeper understanding.
 
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report3_lower.png)
+
 - **New All Rounders / Lower Middle Order:** Gain a comprehensive view of all-rounders, both in terms of batting and bowling performance, to appreciate their versatile abilities.
+
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report4_AllRounders.png)
 
 - **New Specialist Fast Bowlers / Tail End:** This dashboard is dedicated to the prowess of fast bowlers, showcasing their impact through visualizations of their bowling performance.
 
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report5_FastBowlers.png)
+
 - **Final11:** The pinnacle of our project, this dashboard serves as the arena for selecting the ultimate team, thoughtfully chosen to take on highly skilled opponents. Furthermore, it provides a summarized overview of the selected players' batting and bowling performance metrics.
 
-Our project's crowning achievement lies in the creation of captivating and informative Power BI dashboards, providing powerful visualization tools for a deeper understanding of T20 Cricket.
+![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/Report6_Final11.png)
 
-With great pride, we showcase our expertise in data scraping, data cleaning, data transformation, and data visualization using Power BI. Join us in unraveling the strategic dynamics of T20 Cricket through data-driven insights and the art of team selection.
+One of the project's focal points was the creation of engaging and informative Power BI dashboards. These dashboards provide powerful visualization tools to understand the T20 Cricket game at a deeper level. 
+
+
