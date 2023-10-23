@@ -16,7 +16,7 @@ This project revolves around the exciting world of T20 Cricket, specifically the
 
 **Challenging the Norms:** The project posed a unique challenge - crafting a cricket team with the capability to consistently score 180 runs while defending against the relentless pursuit of 150 runs by formidable opponents. This challenge drove the fusion of strategy and data analytics.
 
-**Data Unearthed:** The journey commenced with scraping crucial data from ESPNcricinfo, sourcing insights from the T20 World Cup 2022. I harnessed BrightData to scrape data from the website in a structured JSON format. A snapshot of this JSON data can be seen below:
+**Data Unearthed:** The journey commenced with scraping crucial data from ESPNcricinfo website -> "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/match-schedule-fixtures-and-results" , sourcing insights from the T20 World Cup 2022. I harnessed BrightData to scrape data from the website in a structured JSON format. A snapshot of this JSON data can be seen below:
 
 ![](https://github.com/pranav98711/Cricket-Analytics-Scoring-Big-with-Data-Insights/blob/main/GIF%20Files/T20_Json_Snapshot.png)
 
