@@ -10,7 +10,7 @@
 
 **Project Summary:**
 
-This project revolves around the exciting world of T20 Cricket, specifically the T20 Cricket World Cup, which concluded recently with England emerging as the champions against Pakistan. Our journey began by delving into the world of cricket data analytics, focusing on the T20 World Cup data.
+This project revolves around the exciting world of T20 Cricket, specifically the T20 2022 Cricket World Cup, which concluded recently with England emerging as the champions against Pakistan. Our journey began by delving into the world of cricket data analytics, focusing on the T20 World Cup data.
 
 **Key Features:**
 
